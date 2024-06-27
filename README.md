@@ -2,7 +2,7 @@
 <h3 align="center">Passionate About Software Development.</h3>
 <h3 align="center">Currently, I am taking courses to further enhance my skills and knowledge.</h3>
 
-- 🌱 I’m currently learning **more about cybersecurity**
+- 🌱 I’m currently learning **about cybersecurity**
 
 - 👨‍💻 All of my university projects are available at [https://github.com/HelderGod/University](https://github.com/HelderGod/University)
 
