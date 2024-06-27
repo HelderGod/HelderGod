@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Helder Godinho</h1>
-<h3 align="center">Passionate About Software Development. 
-Currently, I am taking courses to further enhance my skills and knowledge."</h3>
+<h3 align="center">Passionate About Software Development.</h3>
+<h3 align="center">Currently, I am taking courses to further enhance my skills and knowledge.</h3>
 
 - 🌱 I’m currently learning **more about cybersecurity**
 
